@@ -1,0 +1,35 @@
+_repo: De-Prins-en-Johan-de-Witt--13-of-ons-land-in-het-tweede-tijdperk-der-eerste-stadhouderlooze-r__20391
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20391-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andriessen, P. J. (Pieter Jacob)
+    aliases:
+    - Andriessen, Pieter Jacob
+    - Andriesen, P. J. (Pieter Jacob)
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '9271'
+    url: http://www.gutenberg.org/2009/agents/9271
+    wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=andr018
+description: ''
+gutenberg_issued: '2007-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20391'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witt, Johan de, 1625-1672'
+- !lcsh 'Netherlands -- History -- 1648-1714'
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- Kings and rulers'
+- !lcsh 'Anglo-Dutch War, 1664-1667'
+- !lcsh 'William III, King of England, 1650-1702'
+title: "De Prins en Johan de Witt\r\nof ons land in het tweede tijdperk der eerste\
+  \ stadhouderlooze regeering"
+url: http://www.gutenberg.org/ebooks/20391
